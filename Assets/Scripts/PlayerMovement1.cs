@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -8,14 +9,36 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
 
+    private bool isInvincible = false;
+    public float invincibilityTime = 2f;
+
+    private SpriteRenderer sr;
+
+    private Animator animator;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
         float move = Input.GetAxis("Horizontal");
+        animator.SetFloat("Speed", Mathf.Abs(move));
+        animator.SetBool("IsJumping", !isGrounded);
+        rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
+        
+
+        if (move > 0)
+        {
+            transform.localScale = new Vector3(1, 1, 1);
+        }
+        else if (move < 0)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
 
         rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
 
@@ -24,11 +47,12 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
-        // SE CAIR NO VAZIO
+        // Caiu no vazio
         if (transform.position.y < -10)
         {
             GameManager.instance.LoseLife();
         }
+        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -45,5 +69,42 @@ public class PlayerMovement : MonoBehaviour
         {
             isGrounded = false;
         }
+    }
+
+    public void TakeDamage()
+    {
+        if (isInvincible)
+            return;
+
+        isInvincible = true;
+
+        GameManager.instance.LoseLife();
+
+        StartCoroutine(Blink());
+
+        Invoke(nameof(EndInvincibility), invincibilityTime);
+    }
+
+    void EndInvincibility()
+    {
+        isInvincible = false;
+    }
+
+    IEnumerator Blink()
+    {
+        float timer = 0f;
+
+        while (timer < invincibilityTime)
+        {
+            sr.enabled = false;
+            yield return new WaitForSeconds(0.15f);
+
+            sr.enabled = true;
+            yield return new WaitForSeconds(0.15f);
+
+            timer += 0.3f;
+        }
+
+        sr.enabled = true;
     }
 }

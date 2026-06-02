@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
+
+            SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else
         {
@@ -24,16 +26,26 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private void Start()
+    private void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         FindLivesText();
         UpdateLivesUI();
     }
 
     void FindLivesText()
+{
+    HUDLives hud = FindFirstObjectByType<HUDLives>();
+
+    if (hud != null)
     {
-        livesText = FindFirstObjectByType<TextMeshProUGUI>();
+        livesText = hud.livesText;
     }
+}
 
     void UpdateLivesUI()
     {
@@ -52,6 +64,8 @@ public class GameManager : MonoBehaviour
     {
         lives--;
 
+        UpdateLivesUI();
+
         Debug.Log("Vidas restantes: " + lives);
 
         if (lives <= 0)
@@ -67,18 +81,10 @@ public class GameManager : MonoBehaviour
     void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
-        Invoke(nameof(UpdateLivesUI), 0.1f);
     }
 
     void GameOver()
     {
-        Debug.Log("GAME OVER");
-
-        lives = 3;
-
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
-        Invoke(nameof(UpdateLivesUI), 0.1f);
+        SceneManager.LoadScene("GameOver");
     }
 }
