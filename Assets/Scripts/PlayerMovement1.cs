@@ -6,6 +6,8 @@ public class PlayerMovement : MonoBehaviour
     public float speed = 5f;
     public float jumpForce = 10f;
 
+    public bool canMove = true;
+
     private Rigidbody2D rb;
     private bool isGrounded;
 
@@ -13,7 +15,6 @@ public class PlayerMovement : MonoBehaviour
     public float invincibilityTime = 2f;
 
     private SpriteRenderer sr;
-
     private Animator animator;
 
     void Start()
@@ -25,11 +26,12 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        float move = Input.GetAxis("Horizontal");
+        float move = canMove ? Input.GetAxis("Horizontal") : 0f;
+
         animator.SetFloat("Speed", Mathf.Abs(move));
         animator.SetBool("IsJumping", !isGrounded);
+
         rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
-        
 
         if (move > 0)
         {
@@ -40,19 +42,18 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
         }
 
-        rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
-
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (canMove &&
+            Input.GetKeyDown(KeyCode.Space) &&
+            isGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            rb.linearVelocity =
+                new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
-        // Caiu no vazio
         if (transform.position.y < -10)
         {
             GameManager.instance.LoseLife();
         }
-        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
