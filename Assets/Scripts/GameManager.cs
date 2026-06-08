@@ -21,6 +21,8 @@ public class GameManager : MonoBehaviour
 
     private string lastSceneName = "";
 
+    private HUDHearts hudHearts;
+
     private void Awake()
     {
         if (instance == null)
@@ -62,8 +64,6 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Se carregou uma fase diferente da anterior,
-        // reinicia o cronômetro da fase.
         if (scene.name != "GameOver" &&
             scene.name != lastSceneName)
         {
@@ -77,6 +77,8 @@ public class GameManager : MonoBehaviour
         UpdateLivesUI();
         UpdateCoinsUI();
         UpdateTimerUI();
+
+        UpdateHeartsUI();
     }
 
     void FindUI()
@@ -89,6 +91,8 @@ public class GameManager : MonoBehaviour
             coinsText = hud.coinsText;
             timerText = hud.timerText;
         }
+
+        hudHearts = FindFirstObjectByType<HUDHearts>();
     }
 
     void UpdateLivesUI()
@@ -113,7 +117,7 @@ public class GameManager : MonoBehaviour
 
         if (coinsText != null)
         {
-            coinsText.text = "Moedas: " + coins;
+            coinsText.text = coins.ToString();
         }
     }
 
@@ -133,6 +137,19 @@ public class GameManager : MonoBehaviour
                 string.Format("{0:00}:{1:00}",
                 minutes,
                 seconds);
+        }
+    }
+
+    void UpdateHeartsUI()
+    {
+        if (hudHearts == null)
+        {
+            hudHearts = FindFirstObjectByType<HUDHearts>();
+        }
+
+        if (hudHearts != null)
+        {
+            hudHearts.UpdateHearts(lives);
         }
     }
 
@@ -157,6 +174,7 @@ public class GameManager : MonoBehaviour
         lives--;
 
         UpdateLivesUI();
+        UpdateHeartsUI();
 
         Debug.Log("Vidas restantes: " + lives);
 
@@ -197,5 +215,6 @@ public class GameManager : MonoBehaviour
         UpdateLivesUI();
         UpdateCoinsUI();
         UpdateTimerUI();
+        UpdateHeartsUI();
     }
 }

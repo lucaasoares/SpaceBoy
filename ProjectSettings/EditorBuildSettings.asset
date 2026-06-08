@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 1280743c6638a98419df9c6896a8d3fc
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 6867526cb09270b4f8749c8060b42bed
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
