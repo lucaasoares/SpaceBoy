@@ -6,6 +6,11 @@ public class PlayerMovement : MonoBehaviour
     public float speed = 5f;
     public float jumpForce = 10f;
 
+    [Header("Double Jump")]
+    public int maxJumps = 2;
+
+    private int jumpsRemaining;
+
     public bool canMove = true;
 
     private Rigidbody2D rb;
@@ -22,6 +27,8 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
+        jumpsRemaining = maxJumps;
     }
 
     void Update()
@@ -44,10 +51,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (canMove &&
             Input.GetKeyDown(KeyCode.Space) &&
-            isGrounded)
+            jumpsRemaining > 0)
         {
             rb.linearVelocity =
                 new Vector2(rb.linearVelocity.x, jumpForce);
+
+            jumpsRemaining--;
         }
 
         if (transform.position.y < -10)
@@ -61,6 +70,8 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+
+            jumpsRemaining = maxJumps;
         }
     }
 
