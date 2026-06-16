@@ -1,0 +1,3432 @@
+fileFormatVersion: 2
+guid: a81f2b5d7738a6a4b9cc9853d338a96e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3961538485864856878
+    second: Sega Genesis sprites_0
+  - first:
+      213: -5299865981684645897
+    second: Sega Genesis sprites_1
+  - first:
+      213: -8529605654081525485
+    second: Sega Genesis sprites_2
+  - first:
+      213: 8076975202500516072
+    second: Sega Genesis sprites_3
+  - first:
+      213: 905832323243672820
+    second: Sega Genesis sprites_4
+  - first:
+      213: 2246930365064718026
+    second: Sega Genesis sprites_5
+  - first:
+      213: -7829230631878553354
+    second: Sega Genesis sprites_6
+  - first:
+      213: 720031248612635577
+    second: Sega Genesis sprites_7
+  - first:
+      213: 7351499961129634450
+    second: Sega Genesis sprites_8
+  - first:
+      213: 357611541371683068
+    second: Sega Genesis sprites_9
+  - first:
+      213: 7220110651504134032
+    second: Sega Genesis sprites_10
+  - first:
+      213: 3076046435592399124
+    second: Sega Genesis sprites_11
+  - first:
+      213: 4504477672792244834
+    second: Sega Genesis sprites_12
+  - first:
+      213: 6673440989455615700
+    second: Sega Genesis sprites_13
+  - first:
+      213: -7917286990490783993
+    second: Sega Genesis sprites_14
+  - first:
+      213: 4501453951756938579
+    second: Sega Genesis sprites_15
+  - first:
+      213: -1487743043938696915
+    second: Sega Genesis sprites_16
+  - first:
+      213: 9104887856328320718
+    second: Sega Genesis sprites_17
+  - first:
+      213: 2669444738814465324
+    second: Sega Genesis sprites_18
+  - first:
+      213: -8052926464552718489
+    second: Sega Genesis sprites_19
+  - first:
+      213: 8168540471172507149
+    second: Sega Genesis sprites_20
+  - first:
+      213: 7406053963522489114
+    second: Sega Genesis sprites_21
+  - first:
+      213: 4233326588607294708
+    second: Sega Genesis sprites_22
+  - first:
+      213: 1025119263626224082
+    second: Sega Genesis sprites_23
+  - first:
+      213: -8688478771147158907
+    second: Sega Genesis sprites_24
+  - first:
+      213: -3085091120249745930
+    second: Sega Genesis sprites_25
+  - first:
+      213: -1718623223800329944
+    second: Sega Genesis sprites_26
+  - first:
+      213: -3760042278502185802
+    second: Sega Genesis sprites_27
+  - first:
+      213: 5014099606952449502
+    second: Sega Genesis sprites_28
+  - first:
+      213: -8609727099689760996
+    second: Sega Genesis sprites_29
+  - first:
+      213: 7817936456636348039
+    second: Sega Genesis sprites_30
+  - first:
+      213: -7081054266256532551
+    second: Sega Genesis sprites_31
+  - first:
+      213: 5373732023612836531
+    second: Sega Genesis sprites_32
+  - first:
+      213: -7412724801372700323
+    second: Sega Genesis sprites_33
+  - first:
+      213: 1527204047005281604
+    second: Sega Genesis sprites_34
+  - first:
+      213: 2902695528486578376
+    second: Sega Genesis sprites_35
+  - first:
+      213: 2697445289635094683
+    second: Sega Genesis sprites_36
+  - first:
+      213: -1431887102634920538
+    second: Sega Genesis sprites_37
+  - first:
+      213: -8126076536705254759
+    second: Sega Genesis sprites_38
+  - first:
+      213: -8724969983563066825
+    second: Sega Genesis sprites_39
+  - first:
+      213: 3844415125380228749
+    second: Sega Genesis sprites_40
+  - first:
+      213: -3210769066642521362
+    second: Sega Genesis sprites_41
+  - first:
+      213: -4961177728169578173
+    second: Sega Genesis sprites_42
+  - first:
+      213: 6314712258488607298
+    second: Sega Genesis sprites_43
+  - first:
+      213: 1991494012883738525
+    second: Sega Genesis sprites_44
+  - first:
+      213: -2687097538683996184
+    second: Sega Genesis sprites_45
+  - first:
+      213: 4640286026079617726
+    second: Sega Genesis sprites_46
+  - first:
+      213: 1976950458751943616
+    second: Sega Genesis sprites_47
+  - first:
+      213: -879483554769196718
+    second: Sega Genesis sprites_48
+  - first:
+      213: -5299837959896722380
+    second: Sega Genesis sprites_49
+  - first:
+      213: 2406803992864769094
+    second: Sega Genesis sprites_50
+  - first:
+      213: 4045295834512518543
+    second: Sega Genesis sprites_51
+  - first:
+      213: 624500467581244101
+    second: Sega Genesis sprites_52
+  - first:
+      213: 6338672239246889067
+    second: Sega Genesis sprites_53
+  - first:
+      213: 1978819235362171138
+    second: Sega Genesis sprites_54
+  - first:
+      213: 2017280082361651782
+    second: Sega Genesis sprites_55
+  - first:
+      213: -7138358857200496272
+    second: Sega Genesis sprites_56
+  - first:
+      213: -3078177893483610229
+    second: Sega Genesis sprites_57
+  - first:
+      213: 5402035656374790133
+    second: Sega Genesis sprites_58
+  - first:
+      213: 6618652868640700526
+    second: Sega Genesis sprites_59
+  - first:
+      213: -6512837763290636292
+    second: Sega Genesis sprites_60
+  - first:
+      213: 6386969225392656513
+    second: Sega Genesis sprites_61
+  - first:
+      213: -1254673459848397861
+    second: Sega Genesis sprites_62
+  - first:
+      213: -3309562299738936707
+    second: Sega Genesis sprites_63
+  - first:
+      213: -1350516918654250587
+    second: Sega Genesis sprites_64
+  - first:
+      213: 2573592179443292814
+    second: Sega Genesis sprites_65
+  - first:
+      213: 1769499882653821392
+    second: Sega Genesis sprites_66
+  - first:
+      213: -4991107214141759637
+    second: Sega Genesis sprites_67
+  - first:
+      213: -2253013747448778899
+    second: Sega Genesis sprites_68
+  - first:
+      213: 2935582047201183518
+    second: Sega Genesis sprites_69
+  - first:
+      213: 1296597501673393801
+    second: Sega Genesis sprites_70
+  - first:
+      213: -6743347717440013632
+    second: Sega Genesis sprites_71
+  - first:
+      213: 6232222304803242087
+    second: Sega Genesis sprites_72
+  - first:
+      213: -1644046679086170297
+    second: Sega Genesis sprites_73
+  - first:
+      213: 6599836810824543490
+    second: Sega Genesis sprites_74
+  - first:
+      213: -4742531751435701365
+    second: Sega Genesis sprites_75
+  - first:
+      213: 1438257255710044207
+    second: Sega Genesis sprites_76
+  - first:
+      213: -1868709796663232340
+    second: Sega Genesis sprites_77
+  - first:
+      213: 2318975422456607979
+    second: Sega Genesis sprites_78
+  - first:
+      213: -6301290156569068072
+    second: Sega Genesis sprites_79
+  - first:
+      213: 205693169966572421
+    second: Sega Genesis sprites_80
+  - first:
+      213: 2853984172585008650
+    second: Sega Genesis sprites_81
+  - first:
+      213: -1871269335666189154
+    second: Sega Genesis sprites_82
+  - first:
+      213: -1482240741903619798
+    second: Sega Genesis sprites_83
+  - first:
+      213: 3316110117349852949
+    second: Sega Genesis sprites_84
+  - first:
+      213: 3552010510158580652
+    second: Sega Genesis sprites_85
+  - first:
+      213: -5891056825126638458
+    second: Sega Genesis sprites_86
+  - first:
+      213: 5139276786496521217
+    second: Sega Genesis sprites_87
+  - first:
+      213: -212844646804895304
+    second: Sega Genesis sprites_88
+  - first:
+      213: -656420788193696359
+    second: Sega Genesis sprites_89
+  - first:
+      213: -4397802956578967361
+    second: Sega Genesis sprites_90
+  - first:
+      213: 5363422296321498979
+    second: Sega Genesis sprites_91
+  - first:
+      213: 432721928604314331
+    second: Sega Genesis sprites_92
+  - first:
+      213: -4577616427404985812
+    second: Sega Genesis sprites_93
+  - first:
+      213: -7465692215476317253
+    second: Sega Genesis sprites_94
+  - first:
+      213: 5650618049605625562
+    second: Sega Genesis sprites_95
+  - first:
+      213: 5709097910029388801
+    second: Sega Genesis sprites_96
+  - first:
+      213: -5914941823633750932
+    second: Sega Genesis sprites_97
+  - first:
+      213: 3071902029298376012
+    second: Sega Genesis sprites_98
+  - first:
+      213: 5021246689254400270
+    second: Sega Genesis sprites_99
+  - first:
+      213: 5714973281201032138
+    second: Sega Genesis sprites_100
+  - first:
+      213: -6424295158339683515
+    second: Sega Genesis sprites_101
+  - first:
+      213: -1079677252957668370
+    second: Sega Genesis sprites_102
+  - first:
+      213: -8157007969673476879
+    second: Sega Genesis sprites_103
+  - first:
+      213: -1588415959347168219
+    second: Sega Genesis sprites_104
+  - first:
+      213: 8382343380364345210
+    second: Sega Genesis sprites_105
+  - first:
+      213: -5384388048726259411
+    second: Sega Genesis sprites_106
+  - first:
+      213: -2691370965407914422
+    second: Sega Genesis sprites_107
+  - first:
+      213: -983657080028225652
+    second: Sega Genesis sprites_108
+  - first:
+      213: 6757015026294951918
+    second: Sega Genesis sprites_109
+  - first:
+      213: -7062541784482934234
+    second: Sega Genesis sprites_110
+  - first:
+      213: 6986969116149096005
+    second: Sega Genesis sprites_111
+  - first:
+      213: 1920170028680760837
+    second: Sega Genesis sprites_112
+  - first:
+      213: 8988632850883513025
+    second: Sega Genesis sprites_113
+  - first:
+      213: -5763882577504446026
+    second: Sega Genesis sprites_114
+  - first:
+      213: -2254392199167293522
+    second: Sega Genesis sprites_115
+  - first:
+      213: -4849806382975515777
+    second: Sega Genesis sprites_116
+  - first:
+      213: -2855381094779984428
+    second: Sega Genesis sprites_117
+  - first:
+      213: -4371480499940177538
+    second: Sega Genesis sprites_118
+  - first:
+      213: 7525497297466158127
+    second: Sega Genesis sprites_119
+  - first:
+      213: -7957204592540318706
+    second: Sega Genesis sprites_120
+  - first:
+      213: -5558404783031532350
+    second: Sega Genesis sprites_121
+  - first:
+      213: 4895283970777335913
+    second: Sega Genesis sprites_122
+  - first:
+      213: -886514776456229079
+    second: Sega Genesis sprites_123
+  - first:
+      213: -4859458422529968330
+    second: Sega Genesis sprites_124
+  - first:
+      213: -6091764016553045717
+    second: Sega Genesis sprites_125
+  - first:
+      213: 6523643568523728362
+    second: Sega Genesis sprites_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 154
+        height: 1265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d730683463af630800000000000000
+      internalID: 3961538485864856878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1456
+        width: 121
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff728438f71376b0800000000000000
+      internalID: -5299865981684645897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1425
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319ae4279d0c0a980800000000000000
+      internalID: -8529605654081525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1405
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89eac272e271070800000000000000
+      internalID: 8076975202500516072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1400
+        width: 107
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4810dd2b9229c00800000000000000
+      internalID: 905832323243672820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1457
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6a8b42343be2f10800000000000000
+      internalID: 2246930365064718026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1457
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0954aa83cf85390800000000000000
+      internalID: -7829230631878553354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1456
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3bcb01b901ef900800000000000000
+      internalID: 720031248612635577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1455
+        width: 93
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0e65c346c50660800000000000000
+      internalID: 7351499961129634450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1455
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00a0b5dcd76f400800000000000000
+      internalID: 357611541371683068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1115
+        width: 294
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0970bed326cf23460800000000000000
+      internalID: 7220110651504134032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1403
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41967128fef40ba20800000000000000
+      internalID: 3076046435592399124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1372
+        width: 94
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262c571e39e138e30800000000000000
+      internalID: 4504477672792244834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1407
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d68806f833dc9c50800000000000000
+      internalID: 6673440989455615700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1377
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa9f20e65202290800000000000000
+      internalID: -7917286990490783993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1377
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2047f480687e30800000000000000
+      internalID: 4501453951756938579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1377
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c9fc75997a5be0800000000000000
+      internalID: -1487743043938696915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1400
+        width: 314
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a73cf34f0b5e70800000000000000
+      internalID: 9104887856328320718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_18
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1383
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25529cb8d5cb0520800000000000000
+      internalID: 2669444738814465324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1383
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2ef5fb024e3090800000000000000
+      internalID: -8052926464552718489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_20
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1383
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a3ad974c7c5170800000000000000
+      internalID: 8168540471172507149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1383
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb12347d697c660800000000000000
+      internalID: 7406053963522489114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1383
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc672c6a1ccfba30800000000000000
+      internalID: 4233326588607294708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_23
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1411
+        width: 91
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e9d8f984f93e00800000000000000
+      internalID: 1025119263626224082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1348
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a404757925c6780800000000000000
+      internalID: -8688478771147158907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1327
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4dcdb8fd8f25d0800000000000000
+      internalID: -3085091120249745930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1327
+        width: 100
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82905aa98493628e0800000000000000
+      internalID: -1718623223800329944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1351
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44d612875a1dbc0800000000000000
+      internalID: -3760042278502185802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1351
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed593d4d609a59540800000000000000
+      internalID: 5014099606952449502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1350
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1700f1b1da148880800000000000000
+      internalID: -8609727099689760996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1326
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b26e39c3ee7c60800000000000000
+      internalID: 7817936456636348039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1349
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd38079aa0bbd90800000000000000
+      internalID: -7081054266256532551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1326
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8591edc4539a40800000000000000
+      internalID: 5373732023612836531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1349
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c3744116b02990800000000000000
+      internalID: -7412724801372700323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1334
+        width: 236
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de9414df7b13510800000000000000
+      internalID: 1527204047005281604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_35
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1347
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8ae8a3432784820800000000000000
+      internalID: 2902695528486578376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_36
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1347
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9020c103304f6520800000000000000
+      internalID: 2697445289635094683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1326
+        width: 95
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57bf0444ae02ce0800000000000000
+      internalID: -1431887102634920538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1327
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afb0491706a3f80800000000000000
+      internalID: -8126076536705254759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1279
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73217cdd60eaae680800000000000000
+      internalID: -8724969983563066825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1311
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866d6d103b1a5530800000000000000
+      internalID: 3844415125380228749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1312
+        width: 87
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c5f69b8e0173d0800000000000000
+      internalID: -3210769066642521362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_42
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1319
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417fd4442b562bb0800000000000000
+      internalID: -4961177728169578173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1308
+        width: 93
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242a402a75d52a750800000000000000
+      internalID: 6314712258488607298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1235
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f904ad04533ab10800000000000000
+      internalID: 1991494012883738525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1187
+        width: 113
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f9e1860385bad0800000000000000
+      internalID: -2687097538683996184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1300
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24fa03e8b956040800000000000000
+      internalID: 4640286026079617726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1244
+        width: 139
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38478c7f98f6b10800000000000000
+      internalID: 1976950458751943616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1272
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2592f2cdd527bc3f0800000000000000
+      internalID: -879483554769196718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1302
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434993984713376b0800000000000000
+      internalID: -5299837959896722380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1207
+        width: 111
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64442beca7fa66120800000000000000
+      internalID: 2406803992864769094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1276
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d6c7be027c32830800000000000000
+      internalID: 4045295834512518543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1274
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2de34dddbaaa800800000000000000
+      internalID: 624500467581244101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1235
+        width: 115
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d0ff51dc77f750800000000000000
+      internalID: 6338672239246889067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_54
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1302
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e87e3c9d267b10800000000000000
+      internalID: 1978819235362171138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1272
+        width: 95
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64213a10c81defb10800000000000000
+      internalID: 2017280082361651782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_56
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1298
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0711d45a0747fec90800000000000000
+      internalID: -7138358857200496272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1045
+        width: 529
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ff277c38d1845d0800000000000000
+      internalID: -3078177893483610229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_58
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1272
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a63aeec2e7fa40800000000000000
+      internalID: 5402035656374790133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_59
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1221
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f2f687bd2adb50800000000000000
+      internalID: 6618652868640700526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_60
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1245
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffdf4f8f80cd95a0800000000000000
+      internalID: -6512837763290636292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_61
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1227
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18091eebba213a850800000000000000
+      internalID: 6386969225392656513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_62
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1230
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb30a4c221869ee0800000000000000
+      internalID: -1254673459848397861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1148
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a290a8f921212d0800000000000000
+      internalID: -3309562299738936707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1170
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a155709400024de0800000000000000
+      internalID: -1350516918654250587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1169
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad074a37c37b320800000000000000
+      internalID: 2573592179443292814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_66
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1115
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92daf94c68e8810800000000000000
+      internalID: 1769499882653821392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_67
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1169
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fd039ce660cbab0800000000000000
+      internalID: -4991107214141759637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1170
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f6e350fefabb0e0800000000000000
+      internalID: -2253013747448778899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_69
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1169
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c07c81584db820800000000000000
+      internalID: 2935582047201183518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec6efde807ef110800000000000000
+      internalID: 1296597501673393801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1147
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cafb019af0da62a0800000000000000
+      internalID: -6743347717440013632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1158
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760401f9a2d4d7650800000000000000
+      internalID: 6232222304803242087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1141
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f78e2814c2f29e0800000000000000
+      internalID: -1644046679086170297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1146
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6ebcac94579b50800000000000000
+      internalID: 6599836810824543490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1152
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f9a3cf742f2eb0800000000000000
+      internalID: -4742531751435701365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_76
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1143
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b9369a57b5f310800000000000000
+      internalID: 1438257255710044207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1141
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8789d37520116e0800000000000000
+      internalID: -1868709796663232340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_78
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1143
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4336a3cd7ae2020800000000000000
+      internalID: 2318975422456607979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1061
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf80ffcf15d88a0800000000000000
+      internalID: -6301290156569068072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1115
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e49829d4cad200800000000000000
+      internalID: 205693169966572421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_81
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1118
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3481eb736b9720800000000000000
+      internalID: 2853984172585008650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 949
+        width: 99
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1980247ae706e0800000000000000
+      internalID: -1871269335666189154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 983
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29293306e50e6be0800000000000000
+      internalID: -1482240741903619798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_84
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 951
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51787bc0590350e20800000000000000
+      internalID: 3316110117349852949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 949
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc4785db64b4130800000000000000
+      internalID: 3552010510158580652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 945
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cafaa9703ce3ea0800000000000000
+      internalID: -5891056825126638458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_87
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 655
+        width: 191
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104498d1201625740800000000000000
+      internalID: 5139276786496521217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_88
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 655
+        width: 47
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c9d2ebe2db0df0800000000000000
+      internalID: -212844646804895304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_89
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 991
+        width: 174
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995688065cce3e6f0800000000000000
+      internalID: -656420788193696359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_90
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 393
+        width: 330
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b2f4f28dd7f2c0800000000000000
+      internalID: -4397802956578967361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_91
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 623
+        width: 58
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f17a07924be6a40800000000000000
+      internalID: 5363422296321498979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_92
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 623
+        width: 82
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6bf82d46510600800000000000000
+      internalID: 432721928604314331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_93
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 991
+        width: 157
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a788ecc1a0970c0800000000000000
+      internalID: -4577616427404985812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_94
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 997
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb392262c78846890800000000000000
+      internalID: -7465692215476317253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_95
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 623
+        width: 46
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad667288d270b6e40800000000000000
+      internalID: 5650618049605625562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_96
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 958
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c0a331d4aca3f40800000000000000
+      internalID: 5709097910029388801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_97
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 842
+        width: 179
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64853700c7e9eda0800000000000000
+      internalID: -5914941823633750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_98
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 823
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9129be9691aa20800000000000000
+      internalID: 3071902029298376012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 823
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016d9a924d0fa540800000000000000
+      internalID: 5021246689254400270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_100
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 875
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb06d68be9af4f40800000000000000
+      internalID: 5714973281201032138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 676
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb6e2479158d6a0800000000000000
+      internalID: -6424295158339683515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 686
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb736142473401f0800000000000000
+      internalID: -1079677252957668370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 686
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f40591287c7cce80800000000000000
+      internalID: -8157007969673476879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_104
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 686
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cfc8bc910d4f9e0800000000000000
+      internalID: -1588415959347168219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_105
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 719
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb6f394e0145470800000000000000
+      internalID: 8382343380364345210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 647
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2900dee89fc645b0800000000000000
+      internalID: -5384388048726259411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_107
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 649
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46af00dd5456aad0800000000000000
+      internalID: -2691370965407914422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_108
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 651
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9e1ce8195952f0800000000000000
+      internalID: -983657080028225652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 647
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef8940cd5db5cd50800000000000000
+      internalID: 6757015026294951918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_110
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 654
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6229a8c7aafccfd90800000000000000
+      internalID: -7062541784482934234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_111
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 655
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e11b08463b6f060800000000000000
+      internalID: 6986969116149096005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_112
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 655
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e4ed3b770d5aa10800000000000000
+      internalID: 1920170028680760837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_113
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 655
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca815d34f90ebc70800000000000000
+      internalID: 8988632850883513025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_114
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 655
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d8c885539200b0800000000000000
+      internalID: -5763882577504446026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_115
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 654
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7c8383d3ac6b0e0800000000000000
+      internalID: -2254392199167293522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_116
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 647
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7382514ac602bcb0800000000000000
+      internalID: -4849806382975515777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 878
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e543d506af58d0800000000000000
+      internalID: -2855381094779984428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_118
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 469
+        width: 130
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c48a75a16553c0800000000000000
+      internalID: -4371480499940177538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 397
+        width: 277
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce1a59befef6860800000000000000
+      internalID: 7525497297466158127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0407880594529190800000000000000
+      internalID: -7957204592540318706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_121
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4c29dac449cd2b0800000000000000
+      internalID: -5558404783031532350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 77
+        width: 87
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c8d8c5da8fe340800000000000000
+      internalID: 4895283970777335913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 79
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f013df18772b3f0800000000000000
+      internalID: -886514776456229079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_124
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 107
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637325caf4cbf8cb0800000000000000
+      internalID: -4859458422529968330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_125
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 86
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2159d907e4b57ba0800000000000000
+      internalID: -6091764016553045717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis sprites_126
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 79
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55e170343a88a50800000000000000
+      internalID: 6523643568523728362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sega Genesis sprites_0: 3961538485864856878
+      Sega Genesis sprites_1: -5299865981684645897
+      Sega Genesis sprites_10: 7220110651504134032
+      Sega Genesis sprites_100: 5714973281201032138
+      Sega Genesis sprites_101: -6424295158339683515
+      Sega Genesis sprites_102: -1079677252957668370
+      Sega Genesis sprites_103: -8157007969673476879
+      Sega Genesis sprites_104: -1588415959347168219
+      Sega Genesis sprites_105: 8382343380364345210
+      Sega Genesis sprites_106: -5384388048726259411
+      Sega Genesis sprites_107: -2691370965407914422
+      Sega Genesis sprites_108: -983657080028225652
+      Sega Genesis sprites_109: 6757015026294951918
+      Sega Genesis sprites_11: 3076046435592399124
+      Sega Genesis sprites_110: -7062541784482934234
+      Sega Genesis sprites_111: 6986969116149096005
+      Sega Genesis sprites_112: 1920170028680760837
+      Sega Genesis sprites_113: 8988632850883513025
+      Sega Genesis sprites_114: -5763882577504446026
+      Sega Genesis sprites_115: -2254392199167293522
+      Sega Genesis sprites_116: -4849806382975515777
+      Sega Genesis sprites_117: -2855381094779984428
+      Sega Genesis sprites_118: -4371480499940177538
+      Sega Genesis sprites_119: 7525497297466158127
+      Sega Genesis sprites_12: 4504477672792244834
+      Sega Genesis sprites_120: -7957204592540318706
+      Sega Genesis sprites_121: -5558404783031532350
+      Sega Genesis sprites_122: 4895283970777335913
+      Sega Genesis sprites_123: -886514776456229079
+      Sega Genesis sprites_124: -4859458422529968330
+      Sega Genesis sprites_125: -6091764016553045717
+      Sega Genesis sprites_126: 6523643568523728362
+      Sega Genesis sprites_13: 6673440989455615700
+      Sega Genesis sprites_14: -7917286990490783993
+      Sega Genesis sprites_15: 4501453951756938579
+      Sega Genesis sprites_16: -1487743043938696915
+      Sega Genesis sprites_17: 9104887856328320718
+      Sega Genesis sprites_18: 2669444738814465324
+      Sega Genesis sprites_19: -8052926464552718489
+      Sega Genesis sprites_2: -8529605654081525485
+      Sega Genesis sprites_20: 8168540471172507149
+      Sega Genesis sprites_21: 7406053963522489114
+      Sega Genesis sprites_22: 4233326588607294708
+      Sega Genesis sprites_23: 1025119263626224082
+      Sega Genesis sprites_24: -8688478771147158907
+      Sega Genesis sprites_25: -3085091120249745930
+      Sega Genesis sprites_26: -1718623223800329944
+      Sega Genesis sprites_27: -3760042278502185802
+      Sega Genesis sprites_28: 5014099606952449502
+      Sega Genesis sprites_29: -8609727099689760996
+      Sega Genesis sprites_3: 8076975202500516072
+      Sega Genesis sprites_30: 7817936456636348039
+      Sega Genesis sprites_31: -7081054266256532551
+      Sega Genesis sprites_32: 5373732023612836531
+      Sega Genesis sprites_33: -7412724801372700323
+      Sega Genesis sprites_34: 1527204047005281604
+      Sega Genesis sprites_35: 2902695528486578376
+      Sega Genesis sprites_36: 2697445289635094683
+      Sega Genesis sprites_37: -1431887102634920538
+      Sega Genesis sprites_38: -8126076536705254759
+      Sega Genesis sprites_39: -8724969983563066825
+      Sega Genesis sprites_4: 905832323243672820
+      Sega Genesis sprites_40: 3844415125380228749
+      Sega Genesis sprites_41: -3210769066642521362
+      Sega Genesis sprites_42: -4961177728169578173
+      Sega Genesis sprites_43: 6314712258488607298
+      Sega Genesis sprites_44: 1991494012883738525
+      Sega Genesis sprites_45: -2687097538683996184
+      Sega Genesis sprites_46: 4640286026079617726
+      Sega Genesis sprites_47: 1976950458751943616
+      Sega Genesis sprites_48: -879483554769196718
+      Sega Genesis sprites_49: -5299837959896722380
+      Sega Genesis sprites_5: 2246930365064718026
+      Sega Genesis sprites_50: 2406803992864769094
+      Sega Genesis sprites_51: 4045295834512518543
+      Sega Genesis sprites_52: 624500467581244101
+      Sega Genesis sprites_53: 6338672239246889067
+      Sega Genesis sprites_54: 1978819235362171138
+      Sega Genesis sprites_55: 2017280082361651782
+      Sega Genesis sprites_56: -7138358857200496272
+      Sega Genesis sprites_57: -3078177893483610229
+      Sega Genesis sprites_58: 5402035656374790133
+      Sega Genesis sprites_59: 6618652868640700526
+      Sega Genesis sprites_6: -7829230631878553354
+      Sega Genesis sprites_60: -6512837763290636292
+      Sega Genesis sprites_61: 6386969225392656513
+      Sega Genesis sprites_62: -1254673459848397861
+      Sega Genesis sprites_63: -3309562299738936707
+      Sega Genesis sprites_64: -1350516918654250587
+      Sega Genesis sprites_65: 2573592179443292814
+      Sega Genesis sprites_66: 1769499882653821392
+      Sega Genesis sprites_67: -4991107214141759637
+      Sega Genesis sprites_68: -2253013747448778899
+      Sega Genesis sprites_69: 2935582047201183518
+      Sega Genesis sprites_7: 720031248612635577
+      Sega Genesis sprites_70: 1296597501673393801
+      Sega Genesis sprites_71: -6743347717440013632
+      Sega Genesis sprites_72: 6232222304803242087
+      Sega Genesis sprites_73: -1644046679086170297
+      Sega Genesis sprites_74: 6599836810824543490
+      Sega Genesis sprites_75: -4742531751435701365
+      Sega Genesis sprites_76: 1438257255710044207
+      Sega Genesis sprites_77: -1868709796663232340
+      Sega Genesis sprites_78: 2318975422456607979
+      Sega Genesis sprites_79: -6301290156569068072
+      Sega Genesis sprites_8: 7351499961129634450
+      Sega Genesis sprites_80: 205693169966572421
+      Sega Genesis sprites_81: 2853984172585008650
+      Sega Genesis sprites_82: -1871269335666189154
+      Sega Genesis sprites_83: -1482240741903619798
+      Sega Genesis sprites_84: 3316110117349852949
+      Sega Genesis sprites_85: 3552010510158580652
+      Sega Genesis sprites_86: -5891056825126638458
+      Sega Genesis sprites_87: 5139276786496521217
+      Sega Genesis sprites_88: -212844646804895304
+      Sega Genesis sprites_89: -656420788193696359
+      Sega Genesis sprites_9: 357611541371683068
+      Sega Genesis sprites_90: -4397802956578967361
+      Sega Genesis sprites_91: 5363422296321498979
+      Sega Genesis sprites_92: 432721928604314331
+      Sega Genesis sprites_93: -4577616427404985812
+      Sega Genesis sprites_94: -7465692215476317253
+      Sega Genesis sprites_95: 5650618049605625562
+      Sega Genesis sprites_96: 5709097910029388801
+      Sega Genesis sprites_97: -5914941823633750932
+      Sega Genesis sprites_98: 3071902029298376012
+      Sega Genesis sprites_99: 5021246689254400270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
